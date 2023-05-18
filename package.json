@@ -12,7 +12,7 @@
         "type": "git",
         "url": "git+https://github.com/tandung1/Bot12.git"
     },
-    "author": "Vtuan",
+     "author": "CatalizCS",
     "license": "GPL-3.0",
     "dependencies": {
         "@miraipr0ject/assets": "",
