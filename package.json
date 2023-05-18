@@ -1,8 +1,8 @@
 {
-    "name": "Mirai",
+    "name": "tddzs1tg06",
     "version": "1.2.14",
-    "description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.",
-    "main": "mirai.js",
+    "description": "Hi To La Vu Van Tuan",
+    "main": "tddzs1tg.js",
     "scripts": {
         "start": "node index",
         "login": "node login",
@@ -10,9 +10,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/vannhatk03/miraiv2.git"
+        "url": "git+https://github.com/tandung1/Bot12.git"
     },
-    "author": "CatalizCS",
+    "author": "Vtuan",
     "license": "GPL-3.0",
     "dependencies": {
         "@miraipr0ject/assets": "",
