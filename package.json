@@ -1,7 +1,7 @@
 {
     "name": "tddzs1tg06",
     "version": "1.2.14",
-    "description": "Không làm mà đòi có ăn=))",
+    "description": "Hi chào cậu đến với file bot",
     "main": "main.js",
     "scripts": {
         "start": "node index",
